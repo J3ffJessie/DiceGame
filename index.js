@@ -22,6 +22,11 @@ function checkWinner(){
   }
 }
 
+function refreshPage(){
+  window.location.reload();
+} 
+
+
 
 gamePlay();
 checkWinner();
