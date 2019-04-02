@@ -1,3 +1,11 @@
+a{
+  color: white;
+}
+
+a:hover{
+  color: #4ECCA3;
+}
+
 .container {
   width: 70%;
   margin: auto;
